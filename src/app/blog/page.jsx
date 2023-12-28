@@ -1,9 +1,9 @@
 import React from 'react'
 
-function BlogPage() {
+const page = () => {
   return (
-    <div>BlogPage</div>
+    <div>page</div>
   )
 }
 
-export default BlogPage
+export default page
